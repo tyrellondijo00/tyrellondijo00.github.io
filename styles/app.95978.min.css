@@ -1943,6 +1943,7 @@ button {
   z-index: -1;
   visibility: hidden;
 }
+
 .logo > svg {
   width: 10.125em;
   height: 2.063em;
